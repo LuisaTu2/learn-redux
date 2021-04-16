@@ -4,6 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
+// STORE is a globalized state
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
